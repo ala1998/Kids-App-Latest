@@ -1,0 +1,60 @@
+export const mainColor = '#004492';
+// export const mainColor = '#3d57bc';
+export const newMainColor = '#fff8f5';
+export const white = '#FFF';
+export const black = '#000';
+export const red = '#A02E2D';
+export const cyan = '#1eab92';
+export const backgroundColor = '#f6faff';
+export const midGrey = '#818386';
+export const darkGrey = '#7c8da9';
+export const borderGrey = '#eee';
+export const orangeIcon = '#ff781f';
+export const yellowIcon = '#fec116';
+export const darkGreen = '#38c85f';
+export const lightRed = '#38c85f';
+export const labelColor = '#dde1e6';
+export const darkGreyBlue = '#35405e';
+export const lightGreen = '#e0f4ec';
+export const red2 = '#ff6363';
+export const orangeBackground = '#ffdbcc';
+export const darkBlue = '#004492';
+export const categoryDetailsBlack = '#0a0c12';
+export const darkBlueBackground = '#2f4362';
+export const classesGrey = '#848999';
+export const lightBlue = '#4965b7';
+export const transparent = 'rgba(103, 103, 103, 0.32)';
+export const lightOrange = '#faccb9';
+export const darkOrange = '#d67a69';
+export const thumbColor = 'rgba(52, 52, 52, 0)';
+export const transparentBackground = 'rgba(255, 255, 255, 0.0)';
+export const sliderTransparent = 'rgba(255, 255, 255, 0.18)';
+export const sliderTrackTint = "#6dc5f6";
+export const darkTransparent = 'rgba(0, 0, 0, 0.44)';
+export const sliderOrange = '#fcaf8f';
+export const thumbOrange = '#d68c7e';
+export const popupOrange = '#ca6a57';
+export const RoseWhite = '#ffefe9';
+export const questionsNumTransparent = 'rgba(255, 255, 255, 0.64)';
+export const categoryTypeTransparent = 'rgba(255, 255, 255, 0.24)';
+export const brown = '#704942';
+export const horizontalTransparent = "rgba(255, 255, 255, 0.23)";
+export const bottomMenu = "rgba(0,0,100%,80%)";
+export const DarkRed = '#7c253c';
+export const yellow = "#ffeb83";
+export const onahau = "#c3f2fc";
+export const mayaBlue = "#6dc5f6";
+export const lightCyan = "#c4fbff";
+export const paua = "#2c2953";
+export const ParentsAreaText = "#63626d";
+export const parentsAccessTransparent = 'rgba(255, 255, 255, 0.56)';
+export const subscriptionPlansTransparent = "rgba(255, 255, 255, 0.11)";
+export const shapesColor = "#151331";
+export const purple = "#8567fc";
+export const lightPurple = "#b6a4ff";
+export const settingDarkBlue = "#2f4c63";
+
+
+
+
+

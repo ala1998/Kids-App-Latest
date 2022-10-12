@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Kids-Fairy-Tales",
+    "slug": "Kids-Fairy-Tales",
+    "version": "1.0.0",
+    "plugins": [
+      [
+        "expo-facebook",
+        {
+          "userTrackingPermission": false
+        }
+      ]
+    ],
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "cover"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "./src/assets/*",
+      "./src/assets/images/*",
+      "./src/assets/fonts/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ala_elska.KidsFairyTales"
+    },
+    "web": {
+    },
+    "extra": {
+      "eas": {
+        "projectId": "dd5b05b4-a8c0-4e7e-a3d2-b27171d61b73"
+      }
+    }
+  }
+}
